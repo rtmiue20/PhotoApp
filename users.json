@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "minhtrieu",
+      "password": "123456",
+      "url_profile": "https://i.pravatar.cc/400?img=11",
+      "short_bio": "Sinh viên UEH, thích lập trình Java và Android."
+    },
+    {
+      "id": 2,
+      "uname": "lananh",
+      "password": "abc12345",
+      "url_profile": "https://i.pravatar.cc/400?img=47",
+      "short_bio": "Yêu thích thiết kế giao diện và chụp ảnh."
+    },
+    {
+      "id": 3,
+      "uname": "huyhoang",
+      "password": "pass2026",
+      "url_profile": "https://i.pravatar.cc/400?img=12",
+      "short_bio": "Đam mê dữ liệu, thường chơi bóng đá cuối tuần."
+    },
+    {
+      "id": 4,
+      "uname": "thuha",
+      "password": "qwerty99",
+      "url_profile": "https://i.pravatar.cc/400?img=45",
+      "short_bio": "Học Marketing, đang làm quen với lập trình di động."
+    },
+    {
+      "id": 5,
+      "uname": "quocbao",
+      "password": "bao@2026",
+      "url_profile": "https://i.pravatar.cc/400?img=15",
+      "short_bio": "Thích đọc sách công nghệ và nghe nhạc lo-fi."
+    },
+    {
+      "id": 6,
+      "uname": "ngocdiep",
+      "password": "diep#321",
+      "url_profile": "https://i.pravatar.cc/400?img=49",
+      "short_bio": "Thích du lịch, nấu ăn và học ngoại ngữ."
+    }
+  ]
+}
